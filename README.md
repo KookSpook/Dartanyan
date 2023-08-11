@@ -26,12 +26,6 @@
                         const page4 = await browser.newPage();
                         await page4.goto(url);
 
-                        await page4.waitForNetworkIdle();
-                        await page4.waitForSelector(elementSelector1);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector1);
-                        await page4.waitForNetworkIdle();
-
                         await page4.waitForSelector(elementSelector2);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector2);
