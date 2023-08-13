@@ -1,6 +1,4 @@
 
-                    // #3 PAGE ACTIONS
-
                     async function clickFunction(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
                         const xPathToClick = await openedPageToClick.waitForXPath(clickSelector);
