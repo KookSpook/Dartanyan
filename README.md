@@ -4,9 +4,7 @@
                         const xPathToClick = await openedPageToClick.waitForXPath(clickSelector);
                         await xPathToClick.click();
                         await new Promise(resolve => setTimeout(resolve, 500));
-                            await Promise.waitForNetworkIdle;
-                            
-                    }
+                            await Promise.wa
 
                     async function clickFunctionSelector(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
