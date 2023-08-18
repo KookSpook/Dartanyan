@@ -4,8 +4,6 @@
                         cowait new Promise(resolve => setTimeou
                         const clickSelector = selectorUrl;
                         cowait new Promise(resolve => setTimeout(resolve, 500));
-                            await Promise.wa
-
                     async function clickFunctionSelector(selectorUrl, openedPageToClick) {
                         const clickSelector = selectorUrl;
                         await openedPageToClick.waitForSelector(selectorUrl);
