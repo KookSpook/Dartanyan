@@ -8,11 +8,7 @@
                         const clickSelector = selectorUrl;
                         await openedPageToClick.waitForSelector(selectorUrl);
                         await openedPageToClick.click(clickSelector);
-                        await new Promise(resolve => setTimeout(resolve, 500));
-                            await Promise.waitForNetwors(url, [elementSelector1, elementSelector2, elementSelector3, elementSelector4, elementSelector5, elementSelector6, elementSelector7, elementSelector8, elementSelector9, elementSelector10, elementSelector11, elementSelector12, elementSelector13,],) {
-                        const page4 = await browser.newPage();
-                        await page4.goto(url);
-
+                        await new Promise(resolve =>
                         await page4.waitForSelector(elementSelector2);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector2);
