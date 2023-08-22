@@ -11,10 +11,7 @@
                         await new Promise(resolve =>
                         await page4.waitForSelector(elementSelector2);
                         await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector2);
-                        await page4.waitForNetworkIdle();
-
-                        await page4.waitForSelector(elementSelector3);
+                        await page4.click(elementSelector2);ctor3);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector3);
                         await page4.waitForNetworkIdle();
