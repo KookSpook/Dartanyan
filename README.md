@@ -5,9 +5,7 @@
                         const clickSelector = selectorUrl;
                         cowait new Promise(resolve => setTimeout(resolve, 500));
                     async function clickFunctionSelector(selectorUrl, openedPageToClick) {
-                        const clickSelector = selectorUrl;
-                        await openedPageToClick.waitForSelector(selectorUrl);
-                        await openedPageToClick.click(clickSelector);
+                        const clickSelector = selectorUrl;Selector);
                         await new Promise(resolve =>
                         await page4.waitForSelector(elementSelector2);
                         await page4.waitForNetworkIdle();
