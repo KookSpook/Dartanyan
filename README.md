@@ -3,7 +3,7 @@
                         const clickSelector = selectorUrl;
                         cowait new Promise(resolve => setTimeou
                         const clickSelector = selectorUrl;
-                        cowait new Promise(resolve => setTimeout(resolve, 500));
+                        cowait new Promise(resolve => setTimeout(ve, 500));
                     async function clickFunctionSelector(selectorUrl, open
                         await new Promise(resolve =>
                         await page4.waitForSelector(elementSelector2);
