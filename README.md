@@ -9,7 +9,7 @@
                         await page4.waitForNetworkIdle()
                         await page4.waitForNetworkIdl
                         await page4.click(elementector3);ntNumber = data.profiles[i].cou_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
+StylishDemon        const profileId = data.iles[i        const profileId = data.os[i].id;
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].pass
 iles[i].id;
