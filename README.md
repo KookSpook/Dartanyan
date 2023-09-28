@@ -3,8 +3,6 @@
                         cowait new Promise(re=> setTimeou
                         const clickSelector = selectl;
                         cowait new Promise(resolve => setTimeout(ve, 500
-                    async function clickFunctionSelector(selectorUrl, open
-                        await new Promise(resolve =>
                         await page4.waitForSel# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
