@@ -5,7 +5,6 @@
                         cowait new Promise(resolve => setTimeout(ve, 500
                         await page4.waitForSel# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
