@@ -15,12 +15,6 @@ StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassword = da.profile[i].password;   
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
-                        await page4.click(elementector3);ntNumber = data.profiles[i].cou_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i        const profileId = data.os[i].id;
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].pass
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
