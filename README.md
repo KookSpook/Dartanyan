@@ -10,9 +10,7 @@ ewPa
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb# Stylish
 StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPapp
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
+        const profilePassrd = data.prof(resolve, 1500);   
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
 iles[i].id;
