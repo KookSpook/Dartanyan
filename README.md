@@ -4,7 +4,6 @@
                         const clickSelector = selectl;
                         cowait new Promise(resolve => setTimeout(ve, 500
                         await page4.waitForSel# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
 ewPa
         const profilePassword = da.profile[i].password;   
 iles[i].id;
