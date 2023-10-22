@@ -1,5 +1,4 @@
-
-                    async function clickFunction(selector, openedPageToClick)1lectorUrl;se(re=> setTimeou
+n(selector, openedPageToClick)1lectorUrl;se(re=> setTimeou
                         const clickSelector = selectl;
                         cowait new Promise(resolve => setTimeout(ve, 500
                         await page4.waitForSel# StylishDemon
