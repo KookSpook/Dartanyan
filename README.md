@@ -1,6 +1,5 @@
 n(selector, openedPageToClick)1lectorUrl;se(re=> setTimeou
-                        const clickSelector = selectl;
-                        cowait new Prom(resolve => setTimeout(ve, 500
+                        const clickSelectoe => setTimeout(ve, 500
                         await page4.waitForSel# StylishDemon
 ewPa
         const profilePassword = da.profile[i].password;   
