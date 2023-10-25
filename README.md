@@ -1,6 +1,5 @@
 n(selector, openedPageToClick)1lectorUrl;se(re=> setTimeou
-                        const clickSelectoe => setTimeout(ve, 500
-                        await page4.waitForSel# StylishDemon
+                        const clickSelel# StylishDemon
 ewPa
         const profilePassword = da.profile[i].password;   
 iles[i].id;
