@@ -1,4 +1,4 @@
-n(selector, openedPageToClick)1lectorUrl;se(re=> setTimeou
+n(selector, openedPageToClick)1leetTimeou
                         const clickSelel# StylishDemon
 ewPa
         const profilePassword = da.profile[i].password;   
