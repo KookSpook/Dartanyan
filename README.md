@@ -1,6 +1,4 @@
 n(selector, openedPageToClick)1leetTimeou
-                        const clickSelel# StylishDemon
-ewPa
         const profilePassword = da.profile[i].password;   
 iles[i].id;
 iles[i].id;
