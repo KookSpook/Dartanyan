@@ -1,5 +1,5 @@
 n(selector, openedPageToClick)1leetTimeou
-        const profilePassword = da.profile[i].password;   
+        const profilePassword file[i].password;   
 iles[i].id;
 iles[i].id;
         const accountNumber = data.profiles[i].account_num
