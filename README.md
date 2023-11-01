@@ -13,9 +13,7 @@ iles[i].id;
 
                         await page4.waitForSelector(elementSelector5);
                         await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector5);
-                        await page4.waitForNetworkIdle();
-
+                        await page4.click(elementSelecto
                         await page4.waitForSelector(elementSelector6);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector6);
