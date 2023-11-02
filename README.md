@@ -3,8 +3,6 @@ n(selector, openedPageToClick)1leetTimeou
 iles[i].id;
 iles[i].id;
         const accountNumber = data.profiles[i].account_num
-        const profilePassword = data.profili].password;
-iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.wait
