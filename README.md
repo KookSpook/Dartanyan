@@ -12,14 +12,13 @@ iles[i].id;
                         await page4.waitForSelector(elementSelector5);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelecto
-                        await page4.waitForSelector(elementSelector6);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector6);
-                        await page4.waitForNetworkIdle();
-                        
-                        await page4.waitForNetworkIdle();
-                        await page4.waitForSelector(elementSelector7);
-                        await page4.waitForNetworkIdle();
+                        await page4.waitForSele# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
+        const profilePasswof
+        ].password;
+
+                        await page4.waiorNetworkIdle(l;
+                        await page4.click(elementSeIdl;
+                        await page4.waitForSelector(elementSel
                         await page4.click(elementSelector7);
                         await page4.waitForNetworkIdle();
 
