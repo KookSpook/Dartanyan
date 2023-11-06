@@ -6,7 +6,6 @@ iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.wait
-                        await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForSelector(elementSelector5);
