@@ -7,9 +7,7 @@ iles[i].id;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.wait
                         await page4.waitForNetworkIdle();
-
-                        await page4.click(elementSelecto
-                        await page4.waitForSele# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
+-Not-Read-Me# Dead-Me# DorkIdlelector3, 
         const profilePasswof
         ].password;
 
