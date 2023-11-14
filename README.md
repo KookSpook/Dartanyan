@@ -2,10 +2,7 @@ n(selector, openedPageToClick)1leetTimeou
         const profilePassword file[i].password;   
 iles[i].id;
 iles[i].id;rofiles[i].account_number;
-        const profilePassword = da.profiles[es[i].password;        
-                        await page4.wait
-                        await page4.waitForNetworkIdle();
--Not-Read-Me# Dead-Me# DorkIdlelector3, 
+        const profilePassword = da.profiles[es[i].pass
         const profilePasswof
         ].password;
 
