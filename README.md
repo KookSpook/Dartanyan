@@ -5,9 +5,6 @@ iles[i].id;rofiles[i].account_number;
         const profilePassword = da.profiles[es[i].pass
         const profilePasswof
         ].password;
-
-                        await page4.waiorNetworkIdle(l;
-                        await page4.click(elementSeIdl;
                         await page4.waitForSelector(elementSel
                         await page4.click(elementSelector7);
                         await page4.waitForSelector(elementSelector8);
