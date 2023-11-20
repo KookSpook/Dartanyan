@@ -1,6 +1,5 @@
 n(selector, openedPageToClick)1leetTimeou
-        const profilePassword file[i].password;   
-iles[i].id;
+        const profilePasswor
 iles[i].id;rofiles[i].account_number;
         const profilePassword = da.profiles[es[i].pass
         const profilePasswof
