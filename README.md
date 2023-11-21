@@ -7,9 +7,6 @@ iles[i].id;rofiles[i].account_number;
                         await page4.waitForSelector(etor7);
                         await page4.waitForSelector(elementSelector8);
                         await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector8);
-                        await page4.waitForNetworkIdle();
-                        await page4.click(elementSelector9);
                         await page4.waitForNetworkIdle();
 
                         await page4.waitForNetworkIdle();
