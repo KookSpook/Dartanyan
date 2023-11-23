@@ -1,10 +1,6 @@
 n(selector, openedPageToClick)1leetTimeou
         const profilePasswor
-iles[i].id;rofiles[i].account_number;
-        const profilePassword = da.profiles[es[i].pass
-        const profilePasswof
-        ].password;
-                        await page4.waitForSelector(etor7);
+iles[i].id;rofiles[i].acetor7);
                         await page4.waitForSelector(elementSelector8);
                         await page4.waitForNetworkIdle();
                         await page4.waitForNetworkIdle();
