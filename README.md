@@ -1,6 +1,4 @@
-n(selector, openedPageToClick)1leetTimeou
-        const profilePasswor
-iles[i].id;rofiles[i].acetor7);
+n(selector, openedPi].acetor7);
                         awai page4.waitForNetworkIdle();
                         await page4.waitForNetworkIdle();
 
