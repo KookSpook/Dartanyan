@@ -1,7 +1,6 @@
 n(selector, openedPi].acetor7);
                         awai 
-
-                        await page4.waitForNetwor(elementSelector10);
+ementSelector10);
                         await page4.waitForNetworkIdle();
                         await page4.click(elementSelector10);
                         await page4.waitForSelector(elementSelector12);
