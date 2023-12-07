@@ -1,5 +1,4 @@
-n(selector, openedPi].acetor7);tor12);
-                        await page4.waitForNetworkIdle();
+n(selector, openedPi].acetor7);tor12);rNetworkIdle();
                         await page4.click(elementSelector12);
                         await page4.waitForNetworkIdle();
 tworkIdle();
