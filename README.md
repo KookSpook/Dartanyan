@@ -1,5 +1,4 @@
-n(selector, openedPi].acetor7);tor12);rNetworkIdle();
-                        await pag=e4.waitForNetworkIdle();
+n(selector, openedPi].acetor7);tor12);rNerNetworkIdle();
                     }
 
                     // #4 ADD NETWORK 
