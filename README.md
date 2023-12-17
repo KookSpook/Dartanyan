@@ -1,3 +1,2 @@
-n(selector, openedPi].acetor7);tor12);rNerNetworkIdle();
-                    }
+n(selector, openedPi].acetor7);tor12);rNerN
 44444444444
