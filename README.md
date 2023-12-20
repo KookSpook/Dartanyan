@@ -1,2 +1,2 @@
-n(selector, openedPi].acetor7);tor12);rNerN
+n(selector, openedPi].acetor2);rNerN
 44444444444
