@@ -3,5 +3,3 @@ n(selector, openedPi].ace;rNerN
 pet=s[i tForlementSelector5);e
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
-pet=s[i tForlementSelector5);eumber
-                    { browserWSEndpoin
